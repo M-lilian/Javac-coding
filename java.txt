@@ -1,0 +1,9 @@
+Easy:Java was designed  to be easy for the professional programmer to learn and use effectively.
+Object Oriented: Java brought "Everything is an Object" paradigm.
+Robust:Java eliminates virtually problems of memory management mistakes by managing memory allocation and deallocation for you.
+Multithreaded: Java was designed to meet the real world requirement of creating  interactive, networked programs. To accomplish this, Java supports multithreaded programming  which allows you to write programs that do many things simultaneously.
+Architectural neutral: A central issue for the Java designers was that of code longevity and portability. With Java write once; run anywhere, any time, forever.
+Distributed: Java is designed for the distributed environment of the Internet because it handles TCP/IP protocols.
+Dynamic:Java programs carry with them substantial amounts of run-time type information that is used to verify and resolve accesses to objects at run time.
+This makes it possible to dynamically link code in a safe and expedient manner.
+
